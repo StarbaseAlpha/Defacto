@@ -1,0 +1,32 @@
+{
+  "name": "@starbase/defacto",
+  "version": "0.0.1",
+  "description": "Starbase Defacto Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Fuller",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbasealpha/defacto.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "node.js",
+    "starbase"
+  ],
+  "bugs": {
+    "url": "https://github.com/starbasealpha/defacto/issues"
+  },
+  "homepage": "https://github.com/starbasealpha/defacto#readme"
+}
