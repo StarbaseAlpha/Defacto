@@ -1,6 +1,6 @@
 {
   "name": "@starbase/defacto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Starbase Defacto Server",
   "main": "index.js",
   "scripts": {
