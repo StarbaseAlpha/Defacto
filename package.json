@@ -1,6 +1,6 @@
 {
   "name": "@starbase/defacto",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Starbase Defacto Server",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "Mike Fuller",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
